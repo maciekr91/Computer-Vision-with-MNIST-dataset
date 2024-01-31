@@ -14,7 +14,7 @@ For more information visit:
 
 ## Project plan and goals
 
-In this project I will use Python3 in Jupyter Notebook. For data preparation and visaulization I will use standard libraries like numpy, pandas and matplotlib. Main goal of this project is to get familiar with Neural Networks using Tensorflow/Keras framework. I want to experiment with different network architectures and adjust other parameters in order to reach as good accuracy score as possible. I will focus on Fully Connected Neural Networks and Convolutional Neural Networks.
+In this project I use Python3 in Jupyter Notebook. For data preparation and visaulization standard libraries like numpy, pandas and matplotlib are used. Main goal of this project is to get familiar with Neural Networks using Tensorflow/Keras framework. I want to experiment with different network architectures and adjust other parameters in order to reach as good accuracy score as possible. I will focus on Fully Connected Neural Networks and Convolutional Neural Networks.
 
 
 ## Final result
